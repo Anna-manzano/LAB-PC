@@ -1,0 +1,508 @@
+Configuración IP de Windows
+
+    merchandise.opera-api.com
+    ----------------------------------------
+    Nombre de registro  . : merchandise.opera-api.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 648
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2001:4c28:4000:722:185:26:182:111
+
+
+    Nombre de registro  . : merchandise.opera-api.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 648
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2001:4c28:4000:722:185:26:182:112
+
+
+    merchandise.opera-api.com
+    ----------------------------------------
+    Nombre de registro  . : merchandise.opera-api.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 636
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.26.182.112
+
+
+    Nombre de registro  . : merchandise.opera-api.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 636
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.26.182.111
+
+
+    r3---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r3---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 277
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r3.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r3.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 277
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2806:1090:cfff:f::e
+
+
+    r3---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r3---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 281
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r3.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r3.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 281
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 189.247.85.14
+
+
+    array504.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array504.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1090
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.184.216.174
+
+
+    ota.nvidia.com
+    ----------------------------------------
+    Nombre de registro  . : ota.nvidia.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 905
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs801.adn.phicdn.net
+
+
+    Nombre de registro  . : cs801.adn.phicdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 905
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 152.195.55.219
+
+
+    gx.opera-api.com
+    ----------------------------------------
+    Nombre de registro  . : gx.opera-api.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1557
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.26.182.94
+
+
+    Nombre de registro  . : gx.opera-api.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1557
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.26.182.93
+
+
+    beacons.gcp.gvt2.com
+    ----------------------------------------
+    Nombre de registro  . : beacons.gcp.gvt2.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 129
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : beacons-handoff.gcp.gvt2.com
+
+
+    Nombre de registro  . : beacons-handoff.gcp.gvt2.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 129
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4000:812::2003
+
+
+    beacons.gcp.gvt2.com
+    ----------------------------------------
+    Nombre de registro  . : beacons.gcp.gvt2.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 129
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : beacons-handoff.gcp.gvt2.com
+
+
+    Nombre de registro  . : beacons-handoff.gcp.gvt2.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 129
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.9.3
+
+
+    rainmeter.github.io
+    ----------------------------------------
+    Nombre de registro  . : rainmeter.github.io
+    Tipo de registro  . . : 1
+    Período de vida . . . : 124
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.153
+
+
+    Nombre de registro  . : rainmeter.github.io
+    Tipo de registro  . . : 1
+    Período de vida . . . : 124
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.153
+
+
+    Nombre de registro  . : rainmeter.github.io
+    Tipo de registro  . . : 1
+    Período de vida . . . : 124
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.153
+
+
+    Nombre de registro  . : rainmeter.github.io
+    Tipo de registro  . . : 1
+    Período de vida . . . : 124
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.153
+
+
+    update.utorrent.com
+    ----------------------------------------
+    Nombre de registro  . : update.utorrent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 279
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 67.215.246.203
+
+
+    r4---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r4---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 282
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r4.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r4.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 282
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2806:1090:cfff:f::f
+
+
+    r4---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r4---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 275
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r4.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r4.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 275
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 189.247.85.15
+
+
+    ocsp.digicert.com
+    ----------------------------------------
+    Nombre de registro  . : ocsp.digicert.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 412
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wac.phicdn.net
+
+
+    Nombre de registro  . : cs9.wac.phicdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 412
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 72.21.91.29
+
+
+    api.spotify.com
+    ----------------------------------------
+    Nombre de registro  . : api.spotify.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 17
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : edge-web.dual-gslb.spotify.com
+
+
+    Nombre de registro  . : edge-web.dual-gslb.spotify.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 17
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2600:1901:1:c36::
+
+
+    api.spotify.com
+    ----------------------------------------
+    Nombre de registro  . : api.spotify.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 11
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : edge-web.dual-gslb.spotify.com
+
+
+    Nombre de registro  . : edge-web.dual-gslb.spotify.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 11
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 35.186.224.25
+
+
+    r5---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r5---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 286
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r5.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r5.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 286
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2806:1090:cfff:f::10
+
+
+    r5---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r5---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 281
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r5.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r5.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 281
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 189.247.85.16
+
+
+    r6---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r6---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 286
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r6.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r6.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 286
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2806:1090:cfff:f::11
+
+
+    r6---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r6---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 279
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r6.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r6.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 279
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 189.247.85.17
+
+
+    gfwsl.geforce.com
+    ----------------------------------------
+    Nombre de registro  . : gfwsl.geforce.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 823
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : gfwsl.geforce.com.global.ogslb.com
+
+
+    Nombre de registro  . : gfwsl.geforce.com.global.ogslb.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 823
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs648.adn.phicdn.net
+
+
+    Nombre de registro  . : cs648.adn.phicdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 823
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 152.195.55.22
+
+
+    r1---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r1---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 276
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r1.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r1.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 276
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2806:1090:cfff:f::c
+
+
+    r1---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r1---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 274
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r1.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r1.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 274
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 189.247.85.12
+
+
+    r2---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r2---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 277
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r2.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r2.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 277
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2806:1090:cfff:f::d
+
+
+    r2---sn-0opoxu-hutey.googlevideo.com
+    ----------------------------------------
+    Nombre de registro  . : r2---sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 274
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : r2.sn-0opoxu-hutey.googlevideo.com
+
+
+    Nombre de registro  . : r2.sn-0opoxu-hutey.googlevideo.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 274
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 189.247.85.13
+
+
+    router.bittorrent.com
+    ----------------------------------------
+    Nombre de registro  . : router.bittorrent.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 315
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 67.215.246.10
+
+
+    update.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : update.googleapis.com
+    Tipo de registro  . . : 28
+    Período de vida . . . : 128
+    Longitud de datos . . : 16
+    Sección . . . . . . . : respuesta
+    Registro AAAA . . . . : 2607:f8b0:4012:80a::2003
+
+
+    update.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : update.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 127
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.58.193.3
+
+
+    array508.prod.do.dsp.mp.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : array508.prod.do.dsp.mp.microsoft.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1162
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.184.217.37
+
+
+    i3.ytimg.com
+    ----------------------------------------
+    Nombre de registro  . : i3.ytimg.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 3
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.58.195.238
